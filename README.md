@@ -41,7 +41,7 @@ Screenshot of main screen/window: ![alt text](image.png)
 ./gradlew :composeApp:run
 ```
 
-## Backend Configuration ☁️
+## Backend Configuration
 The project uses Supabase for backend services. Configuration is managed in SupabaseClient.kt. For a production setup, ensure your Supabase URL and Key are correctly configured in local.properties or environment variables as defined in build.gradle.kts.
 
 ## Atlas Usage Guide
